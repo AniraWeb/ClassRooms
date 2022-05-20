@@ -32,5 +32,5 @@ Small Project on Laravel, which demonstrate developing process to create simple 
 
 ## Contact
 
-Telegramm [@dtevik](https://t.me/dtevik)
+Telegram - [@dtevik](https://t.me/dtevik)
 
