@@ -11,7 +11,8 @@
 
 Small Project on Laravel, which demonstrate developing process to create simple REST-API base on Laravel framework:
 
-<h3>API METHOD</h3>
+## Project API Method
+
 - Get all students in the classes - <u>GET /api/students</u>.
 - Get special student in the class - <u>POST /api/student/get</u>.
 - Create new student - <u>POST /api/student/create</u>.
