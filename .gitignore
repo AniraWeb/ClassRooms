@@ -18,6 +18,7 @@
 *.eot
 .idea
 .env
+.env1
 /public_html/.htaccess
 /app/storage
 /app/config/local
