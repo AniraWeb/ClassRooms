@@ -17,6 +17,7 @@
 *.woff
 *.eot
 .idea
+.env
 /public_html/.htaccess
 /app/storage
 /app/config/local
