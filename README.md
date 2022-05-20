@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://anira-web.ru/wp-content/uploads/2022/02/anira-logo-red-green.png"></a></p>
+<p align="center"><a href="https://anira-web.ru" target="_blank"><img src="https://anira-web.ru/wp-content/uploads/2022/02/anira-logo-red-green.png"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
