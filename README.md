@@ -13,22 +13,22 @@ Small Project on Laravel, which demonstrate developing process to create simple 
 
 ## Project API Method
 
-- Get all students in the classes - <u>GET /api/students</u>.
-- Get special student in the class - <u>POST /api/student/get</u>.
-- Create new student - <u>POST /api/student/create</u>.
-- Update student - <u>POST /api/student/update</u>.
-- Delete the student - <u>POST /api/student/delete</u>.
-- Get all classrooms - <u>GET /api/classrooms</u>.
-- Get special classroom - <u>POST /api/classroom/get</u>.
-- Get classroom plan - <u>POST /api/classroom-plan/get</u>.
-- Create classroom - <u>POST /api/classroom/create</u>.
-- Update classroom - <u>POST /api/classrooms/update</u>.
-- Delete classroom - <u>POST /api/classroom/delete</u>.
-- Get all lections - <u>GET /api/lectures</u>.
-- Create lection - <u>POST /api/lecture/create</u>.
-- Update lection - <u>POST /api/lecture/update</u>.
-- Delete lection - <u>POST /api/lecture/delete</u>.
-- Get lection - <u>POST /api/lecture/get</u>.
+- Get all students in the classes - <u>GET /api/students</u>
+- Get special student in the class - <u>POST /api/student/get</u>
+- Create new student - <u>POST /api/student/create</u>
+- Update student - <u>POST /api/student/update</u>
+- Delete the student - <u>POST /api/student/delete</u>
+- Get all classrooms - <u>GET /api/classrooms</u>
+- Get special classroom - <u>POST /api/classroom/get</u>
+- Get classroom plan - <u>POST /api/classroom-plan/get</u>
+- Create classroom - <u>POST /api/classroom/create</u>
+- Update classroom - <u>POST /api/classrooms/update</u>
+- Delete classroom - <u>POST /api/classroom/delete</u>
+- Get all lections - <u>GET /api/lectures</u>
+- Create lection - <u>POST /api/lecture/create</u>
+- Update lection - <u>POST /api/lecture/update</u>
+- Delete lection - <u>POST /api/lecture/delete</u>
+- Get lection - <u>POST /api/lecture/get</u>
 
 ## Contact
 
